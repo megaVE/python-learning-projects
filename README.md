@@ -1,25 +1,41 @@
-# 100 Days of Python Projects (Projetos de 100 Dias de Python)
+# Python Learning Projects (Projetos de Aprendizado de Python)
 
-Projets developed during the course "100 Days of Code: The Complete Python Pro Bootcamp for 2023" from Udemy | Projetos desenvolvidos durante o Curso "100 Days of Code: The Complete Python Pro Bootcamp for 2023" da Udemy.
+Projects developed during the course "100 Days of Code: The Complete Python Pro Bootcamp" from Udemy | Projetos desenvolvidos durante o Curso "100 Dias de Código: O Bootcamp Python Pro Completo" da Udemy
 
-## Main Projects (Projetos Principais)
+## 1 - Band Name Generator (Gerador de Nome de Banda)
 
-- 1.  Band Name Generator (Gerador de Nome da Banda)
-- 2.  Tip Calculator (Calculadora de Conta)
-- 3.  Treasure Island Game (Jogo Ilha do Tesouro)
-- 4.  Rock Paper Scissors (Pedra, Papel ou Tesoura)
-- 5.  Strong Password Generator (Gerador de Senhas Fortes)
-- 6.  Reeborg Challenge (Desafio Reeborg)
-- 7.  Hangman (Forca)
-- 8.  Caesar Cryptography (Criptografia César)
-- 9.  Auction Program (Programa de Leilão)
-- 10. Calculator (Calculadora)
-- 11. Blackjack (Vinte-e-um)
-- 12. Number Guessing (Adivinhação de Número)
-- 13. Debugging Challenges (Desafios de Debug)
-- 14. Higher or Lower (Mais ou Menos)
-- 15. Coffee Machine (Máquina de Café)
-- 16. OOP Coffee Machine (Máquina de Café POO)
-- 17. OOP Brain Quiz (Quiz POO)
-- 18. Hirst Painting Generator (Gerador de Pintura Hirst)
-- ...
+## 2 - Tip Calculator (Calculadora de Gorjeta)
+
+## 3 - Treasure Island (Ilha do Tesouro)
+
+## 4 - Rock Paper Scissors (Pedra Papel Tesoura)
+
+## 5 - Password Generator (Gerador de Senhas)
+
+## 6 - Escaping the Maze (Escapando do Labirinto)
+
+## 7 - Hangman (Jogo da Forca)
+
+## 8 - Caesar Cipher (A Cifra de César)
+
+## 9 - Secret Auction (Leilão Secreto)
+
+## 10 - The Calculator (O Calculador)
+
+## 11 - Blackjack
+
+## 12 - Number Guessing Game (Jogo de Adivinhação de Números)
+
+## 13 - Debugging (Depuração)
+
+## 14 - Higher Lower Game (Mais Alto, Mais Baixo)
+
+## 15 - Coffee Machine (Máquina de Café)
+
+## 16 - Coffee Machine OOP (Máquina de Café Orientada a Objeto)
+
+## 17 - Quiz Project (Projeto Quiz)
+
+## 18 - Turtle Graphics (Desenho de Tartaruga)
+
+## 19 - Turtle Graphics Expanded (Desenho de Tartaruga Expandido)
